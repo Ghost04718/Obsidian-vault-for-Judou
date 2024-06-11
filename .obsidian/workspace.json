@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "19bffaad88491383",
+        "id": "0aef4dc99823c8f0",
         "type": "tabs",
         "children": [
           {
-            "id": "7dffecb38c7caa64",
+            "id": "f579698b36ca5769",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/句读.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baf0bbdf10c49170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2406111949.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406111949.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406111949.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2406111949.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,34 +141,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "baf0bbdf10c49170",
+  "active": "f579698b36ca5769",
   "lastOpenFiles": [
-    "2406111949.md",
+    "句读/句子/2406111949.md",
+    "句读/句子/2406112006.md",
+    "句读/作家/卡夫卡.md",
+    "句读/字典/k.md",
     "句读/句读.md",
-    "README.md",
-    "2406111047.md",
-    "句读/字典/l.md",
-    "句读/字典/$1.md",
-    "句读/字典/$2.md",
+    "句读/字典/y.md",
+    "句读/句子/2406112005.md",
+    "句读/作家/伊恩·麦克尤恩.md",
+    "句读/句子/2406112002.md",
+    "句读/作家/杨绛.md",
+    "句读/句子/2406112000.md",
+    "句读/句子/2406111959.md",
+    "句读/作家/永井荷风.md",
+    "句读/作家/北川理惠.md",
+    "句读/句子/2406111958.md",
+    "句读/字典/b.md",
+    "句读/字典/p.md",
+    "句读/作家/普鲁斯特.md",
+    "句读/句子/2406111956.md",
     "句读/字典/$3.md",
-    "句读/句子/2406110850.md",
-    "2406110851.md",
-    "句读/作家/茨威格.md",
-    "句读/字典/c.md",
-    "句读/字典/n.md",
-    "句读/作家/尼采.md",
-    "句读/句子/2406110848.md",
-    "句读/字典/m.md",
-    "句读/句子/2406110847.md",
-    "句读/作家/米兰·昆德拉.md",
-    "句读/句子/2406110845.md",
-    "句读/字典/q.md",
-    "句读/作家/契科夫.md",
-    "句读/句子/2406110841.md",
-    "句读/句子/2406110839.md",
-    "句读/句子/2406110836.md",
-    "句读/作家/陆茵茵.md",
-    "句读/句子/2406110833.md",
+    "句读/句子/2406111954.md",
+    "句读/字典/l.md",
+    "句读/句子/2406111953.md",
+    "句读/作家/李安.md",
+    "句读/句子/2406111952.md",
+    "句读/字典/x.md",
     "句读/字典"
   ]
 }
