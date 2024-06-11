@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#文学/情话  ",
+      "color": {
+        "a": 1,
+        "rgb": 15830259
+      }
+    },
+    {
+      "query": "tag:#文学/人生/爱情  ",
+      "color": {
+        "a": 1,
+        "rgb": 8461779
+      }
+    },
+    {
+      "query": "tag:#文学/人生  ",
+      "color": {
+        "a": 1,
+        "rgb": 9942514
+      }
+    },
+    {
+      "query": "path:句读/作家  ",
+      "color": {
+        "a": 1,
+        "rgb": 15526286
+      }
+    },
+    {
+      "query": "file:句读",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.25883865621816743,
+  "close": true
+}

@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "9a319c90eaf60a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "19bffaad88491383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dffecb38c7caa64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10266cf2df54b37c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5823190693287449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4d538b59d072c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afc856d09e0b2b85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b46eab54f310690",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c026db48ff572c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "af62f3a223ac78c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e312733016689c98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acd35931a1865e67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caae275c0a081038",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79cb77104b40f635",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7dffecb38c7caa64",
+  "lastOpenFiles": [
+    "2406111047.md",
+    "句读/字典/l.md",
+    "句读/句读.md",
+    "句读/字典/$1.md",
+    "句读/字典/$2.md",
+    "句读/字典/$3.md",
+    "句读/句子/2406110850.md",
+    "2406110851.md",
+    "句读/作家/茨威格.md",
+    "句读/字典/c.md",
+    "句读/字典/n.md",
+    "句读/作家/尼采.md",
+    "句读/句子/2406110848.md",
+    "句读/字典/m.md",
+    "句读/句子/2406110847.md",
+    "句读/作家/米兰·昆德拉.md",
+    "句读/句子/2406110845.md",
+    "句读/字典/q.md",
+    "句读/作家/契科夫.md",
+    "句读/句子/2406110841.md",
+    "句读/句子/2406110839.md",
+    "句读/句子/2406110836.md",
+    "句读/作家/陆茵茵.md",
+    "句读/句子/2406110833.md",
+    "句读/字典/s.md",
+    "句读/字典/z.md",
+    "句读/字典"
+  ]
+}
