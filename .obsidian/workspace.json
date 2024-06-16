@@ -8,14 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "207550c20b8058dd",
+            "id": "f475094d58243a75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "句读/字典/f.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e035b24f3b1dbe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2406141538.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2406141538.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2406141538.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2406141538.md"
+              }
             }
           }
         ],
@@ -141,34 +162,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "207550c20b8058dd",
+  "active": "8e035b24f3b1dbe6",
   "lastOpenFiles": [
+    "句读/作家/菲茨杰拉德.md",
+    "句读/字典/f.md",
+    "句读/句读.md",
+    "句读/字典/y.md",
+    "句读/作家/余秀华.md",
+    "2406141538.md",
+    "2406141535.md",
+    "句读/字典/$3.md",
+    "2406141534.md",
+    "句读/字典/j.md",
+    "2406141532.md",
+    "句读/字典/h.md",
+    "句读/作家/加布瑞埃拉·泽文.md",
+    "2406141530.md",
+    "句读/作家/花大钱.md",
+    "句读/字典/l.md",
+    "2406141527.md",
+    "句读/作家/林清玄.md",
+    "2406141525.md",
+    "句读/作家/黄永玉.md",
+    "句读/字典/q.md",
+    "句读/作家/庆山.md",
+    "2406141523.md",
     "句读/句子/2406140924.md",
     "句读/句子/2406140914.md",
     "句读/作家/莫言.md",
-    "句读/字典/m.md",
-    "句读/句读.md",
-    "句读/字典/d.md",
-    "句读/作家/德卡先生的信箱.md",
-    "句读/句子/2406140923.md",
-    "句读/字典/j.md",
-    "句读/句子/2406140921.md",
-    "句读/作家/贾平凹.md",
-    "句读/作家/纪伯伦.md",
-    "句读/句子/2406140920.md",
-    "句读/字典/y.md",
-    "句读/作家/亦舒.md",
-    "句读/句子/2406140918.md",
-    "句读/字典/x.md",
-    "句读/句子/2406140917.md",
-    "句读/作家/谢丽尔·桑德伯格.md",
-    "句读/字典/a.md",
-    "句读/作家/奥斯卡·王尔德.md",
-    "句读/句子/2406140915.md",
-    "句读/字典/w.md",
-    "句读/字典/k.md",
-    "句读/作家/卡夫卡.md",
-    "句读/句子/2406112006.md",
     "句读/字典"
   ]
 }
