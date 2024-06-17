@@ -23,8 +23,12 @@
             "id": "01f8892ef3066aa2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "句读/句子/2406170845.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/句读.md",
+                "file": "句读/句子/2406170845.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/句读.md",
+                "file": "句读/句子/2406170845.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/句读.md"
+                "file": "句读/句子/2406170845.md"
               }
             }
           }
@@ -157,23 +161,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "01f8892ef3066aa2",
+  "active": "ca4d538b59d072c8",
   "lastOpenFiles": [
-    "2406170857.md",
+    "句读/句子/2406170857.md",
     "句读/作家/吉本芭娜娜.md",
     "句读/句读.md",
     "句读/字典/j.md",
     "句读/字典/q.md",
-    "2406170855.md",
+    "句读/句子/2406170855.md",
     "句读/作家/切斯拉夫米沃什.md",
     "句读/字典/$3.md",
-    "2406170853.md",
-    "2406170852.md",
-    "2406170851.md",
-    "2406170850.md",
-    "2406170845.md",
-    "2406170846.md",
-    "2406170848.md",
+    "句读/句子/2406170853.md",
+    "句读/句子/2406170852.md",
+    "句读/句子/2406170851.md",
+    "句读/句子/2406170850.md",
+    "句读/句子/2406170845.md",
+    "句读/句子/2406170846.md",
+    "句读/句子/2406170848.md",
     "句读/字典/c.md",
     "句读/作家/村上春树.md",
     "句读/字典/l.md",
