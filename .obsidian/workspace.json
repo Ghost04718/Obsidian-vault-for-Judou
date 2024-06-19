@@ -11,36 +11,8 @@
             "id": "f1ee6934552e7ea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/字典/w.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32d6f2dd200076c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2406190822.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d7e8fb0509ed50d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/作家/王朔.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -72,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "很久",
+                "query": "命运",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/字典/w.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/字典/w.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "句读/字典/w.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -174,34 +141,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "afc856d09e0b2b85",
+  "active": "f1ee6934552e7ea6",
   "lastOpenFiles": [
-    "句读/句读.md",
+    "句读/句子/2406190811.md",
     "句读/字典/l.md",
+    "句读/作家/莱辛.md",
+    "句读/句读.md",
+    "句读/字典/j.md",
+    "句读/作家/简嫃.md",
+    "句读/句子/2406190836.md",
+    "句读/句子/2406190834.md",
+    "句读/句子/2406190832.md",
+    "句读/字典/w.md",
+    "句读/句子/2406190822.md",
     "句读/作家/卢思浩.md",
     "句读/作家/王朔.md",
-    "2406190822.md",
-    "2406190819.md",
+    "句读/句子/2406190819.md",
     "句读/字典/q.md",
-    "2406190817.md",
+    "句读/句子/2406190817.md",
     "句读/作家/乔治·马丁.md",
     "句读/字典/n.md",
     "句读/作家/尼采.md",
-    "2406190815.md",
+    "句读/句子/2406190815.md",
     "句读/字典/k.md",
-    "2406190813.md",
+    "句读/句子/2406190813.md",
     "句读/作家/凯鲁亚克.md",
     "句读/作家/卡夫卡.md",
     "句读/字典/s.md",
     "句读/作家/三岛由纪夫.md",
-    "2406190811.md",
-    "句读/句子/2406181413.md",
-    "句读/作家/奥斯卡·王尔德.md",
-    "句读/字典/a.md",
-    "句读/字典/w.md",
-    "句读/句子/2406181411.md",
-    "句读/作家/龙应台.md",
-    "句读/字典/b.md",
     "句读/字典"
   ]
 }
