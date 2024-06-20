@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/作家/约翰·史崔勒基.md",
+                "file": "句读/句读.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/作家/约翰·史崔勒基.md",
+                "file": "句读/句读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/作家/约翰·史崔勒基.md",
+                "file": "句读/句读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/作家/约翰·史崔勒基.md"
+                "file": "句读/句读.md"
               }
             }
           }
@@ -163,9 +163,13 @@
   },
   "active": "4def60dc323724bc",
   "lastOpenFiles": [
-    "句读/字典/y.md",
-    "句读/作家/y",
+    "句读/字典/z.md",
+    "句读/作家/z/扎西拉姆·多多.md",
+    "句读/作家/z",
     "句读/句读.md",
+    "句读/字典/y.md",
+    "句读/作家/y/约翰·史崔勒基.md",
+    "句读/作家/y",
     "句读/字典/x.md",
     "句读/作家/x/项飚.md",
     "句读/作家/x",
@@ -189,15 +193,11 @@
     "句读/字典/m.md",
     "句读/作家/m/木心.md",
     "句读/作家/n",
-    "句读/作家/m",
     "句读/字典/l.md",
     "句读/作家/l/罗翔.md",
     "句读/字典/k.md",
     "句读/作家/k/卡夫卡.md",
     "句读/字典/j.md",
-    "句读/作家/j/蒋方舟.md",
-    "句读/字典/h.md",
-    "句读/作家/h/海灵格.md",
-    "句读/字典/g.md"
+    "句读/作家/j/蒋方舟.md"
   ]
 }
