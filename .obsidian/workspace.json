@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cf01191a9f17529",
+            "id": "24f67e626babd4e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "句读/字典/$3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1089b67fffffb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2406210930.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "眼睛",
+                "query": "喜欢的人",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "句读/字典/$3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "句读/字典/$3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "句读/字典/$3.md"
+              }
             }
           }
         ],
@@ -141,35 +161,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2cf01191a9f17529",
+  "active": "24f67e626babd4e1",
   "lastOpenFiles": [
-    "句读/句子/2406191628.md",
-    "句读/字典/s.md",
     "句读/句读.md",
+    "句读/字典/l.md",
+    "句读/作家/l/鲁迅.md",
+    "2406210930.md",
+    "2406210929.md",
+    "句读/句子/2407061633.md",
+    "2406210928.md",
+    "句读/字典/s.md",
+    "句读/作家/s/三毛.md",
+    "2406210927.md",
+    "2406210924.md",
+    "句读/作家/l/陆庆屹.md",
+    "句读/字典/x.md",
+    "2406210923.md",
+    "句读/作家/x/辛波斯卡.md",
+    "句读/字典/m.md",
+    "句读/作家/m/毛姆.md",
+    "2406210920.md",
+    "句读/字典/y.md",
+    "句读/作家/y/余华.md",
+    "句读/句子/2406190834.md",
+    "句读/句子/2406191628.md",
     "句读/字典/z.md",
     "句读/作家/z/张爱玲.md",
     "句读/句子/2406201334.md",
     "句读/作家/s/石川啄木.md",
-    "句读/句子/2406201333.md",
-    "句读/字典/$3.md",
-    "句读/句子/2406201332.md",
-    "句读/句子/2406201331.md",
-    "句读/字典/l.md",
-    "句读/作家/z/周国平.md",
-    "句读/句子/2406201329.md",
-    "句读/作家/l/林婉瑜.md",
-    "句读/字典/a.md",
-    "句读/句子/2406201327.md",
-    "句读/作家/a/爱默生.md",
-    "句读/句子/2406201326.md",
-    "句读/字典/d.md",
-    "句读/作家/d/稻盛和夫.md",
-    "句读/句子/2406201325.md",
-    "句读/句子/2406200925.md",
-    "句读/作家/z/扎西拉姆·多多.md",
     "句读/作家/z",
-    "句读/字典/y.md",
-    "句读/作家/y/约翰·史崔勒基.md",
     "句读/作家/y",
     "句读/作家/x",
     "句读/作家/w",
