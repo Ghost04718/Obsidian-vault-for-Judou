@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "72c3d4e78f2281d7",
+        "id": "33fa803372e32c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "7863ef7f2c01733d",
+            "id": "b0dacb174b32a1a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/作家/a/阿兰·德波顿.md",
+                "file": "2406211419.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16bb99807b037f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "句读/作家/j/加缪.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "喜欢的人",
+                "query": "自私的真相",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/作家/a/阿兰·德波顿.md",
+                "file": "句读/作家/j/加缪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/作家/a/阿兰·德波顿.md",
+                "file": "句读/作家/j/加缪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/作家/a/阿兰·德波顿.md"
+                "file": "句读/作家/j/加缪.md"
               }
             }
           }
@@ -149,35 +162,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7863ef7f2c01733d",
+  "active": "16bb99807b037f44",
   "lastOpenFiles": [
-    "句读/字典/A.md",
-    "句读/作家/a/阿兰·德波顿.md",
+    "句读/字典/J.md",
     "句读/句读.md",
+    "2406211419.md",
+    "2406211418.md",
+    "句读/字典/$4.md",
+    "2406211417.md",
+    "句读/字典/$3.md",
+    "2406211415.md",
+    "句读/字典/Y.md",
+    "句读/作家/c/柴静.md",
+    "句读/作家/y/野夫.md",
+    "2406211413.md",
+    "句读/句子/2406130835.md",
+    "句读/句子/2406130833.md",
+    "句读/字典/C.md",
+    "句读/字典/M.md",
+    "句读/作家/m/毛姆.md",
+    "2406211412.md",
+    "句读/作家/a/阿兰·德波顿.md",
+    "句读/字典/A.md",
     "句读/字典/$1.md",
     "句读/句子/2406051956.md",
     "句读/字典/P.md",
     "句读/作家/p/潘向黎.md",
     "句读/字典/N.md",
-    "句读/字典/M.md",
     "句读/字典/L.md",
-    "句读/作家/l/李安.md",
-    "句读/作家/l/梁文道.md",
-    "句读/字典/J.md",
-    "句读/作家/j/吉本芭娜娜.md",
-    "句读/字典/G.md",
-    "句读/作家/g/歌德.md",
-    "句读/字典/F.md",
-    "句读/作家/f/弗洛姆.md",
-    "句读/作家/f/弗洛伊德.md",
-    "句读/字典/D.md",
-    "句读/作家/d/多米尼克·洛罗.md",
     "add_line.sh~",
-    "句读/作家/d/稻盛和夫.md",
-    "句读/字典/C.md",
-    "句读/作家/c/村上春树.md",
-    "句读/作家/c/茨维塔耶娃.md",
-    "句读/作家/c/茨威格.md",
     "add_line.sh",
     "句读/作家/z",
     "句读/作家/y",
