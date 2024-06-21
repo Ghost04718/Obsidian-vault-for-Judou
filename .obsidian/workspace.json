@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7e7d1b609ef5fe14",
+        "id": "d6ac31f96b3c6811",
         "type": "tabs",
         "children": [
           {
-            "id": "4def60dc323724bc",
+            "id": "2cf01191a9f17529",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/句读.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae03abc57e233716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2406200925.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -60,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "眼睛",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/句读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/句读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "句读/句读.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,43 +141,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4def60dc323724bc",
+  "active": "2cf01191a9f17529",
   "lastOpenFiles": [
+    "句读/句子/2406191628.md",
+    "句读/字典/s.md",
+    "句读/句读.md",
     "句读/字典/z.md",
+    "句读/作家/z/张爱玲.md",
+    "句读/句子/2406201334.md",
+    "句读/作家/s/石川啄木.md",
+    "句读/句子/2406201333.md",
+    "句读/字典/$3.md",
+    "句读/句子/2406201332.md",
+    "句读/句子/2406201331.md",
+    "句读/字典/l.md",
+    "句读/作家/z/周国平.md",
+    "句读/句子/2406201329.md",
+    "句读/作家/l/林婉瑜.md",
+    "句读/字典/a.md",
+    "句读/句子/2406201327.md",
+    "句读/作家/a/爱默生.md",
+    "句读/句子/2406201326.md",
+    "句读/字典/d.md",
+    "句读/作家/d/稻盛和夫.md",
+    "句读/句子/2406201325.md",
+    "句读/句子/2406200925.md",
     "句读/作家/z/扎西拉姆·多多.md",
     "句读/作家/z",
-    "句读/句读.md",
     "句读/字典/y.md",
     "句读/作家/y/约翰·史崔勒基.md",
     "句读/作家/y",
-    "句读/字典/x.md",
-    "句读/作家/x/项飚.md",
     "句读/作家/x",
-    "句读/字典/w.md",
-    "句读/作家/w/王朔.md",
     "句读/作家/w",
-    "句读/字典/t.md",
     "句读/作家/t",
-    "句读/字典/s.md",
-    "句读/作家/s/塞涅卡.md",
     "句读/作家/s",
-    "句读/字典/c.md",
-    "句读/字典/r.md",
     "句读/作家/r",
-    "句读/字典/q.md",
-    "句读/作家/q/七堇年.md",
-    "句读/字典/p.md",
     "句读/作家/q",
     "句读/作家/p",
-    "句读/字典/n.md",
-    "句读/字典/m.md",
-    "句读/作家/m/木心.md",
-    "句读/作家/n",
-    "句读/字典/l.md",
-    "句读/作家/l/罗翔.md",
-    "句读/字典/k.md",
-    "句读/作家/k/卡夫卡.md",
-    "句读/字典/j.md",
-    "句读/作家/j/蒋方舟.md"
+    "句读/作家/n"
   ]
 }
