@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/字典/M.md",
+                "file": "句读/句子/2406051949.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/作家/m/马克·夏卡尔.md",
+                "file": "句读/句子/2407061640.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ca30215f29ad13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "地点.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自私的真相",
+                "query": "情话",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/字典/M.md",
+                "file": "地点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/字典/M.md",
+                "file": "地点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/字典/M.md"
+                "file": "地点.md"
               }
             }
           }
@@ -173,34 +187,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "16bb99807b037f44",
+  "active": "3ca30215f29ad13f",
   "lastOpenFiles": [
-    "句读/作家/m/马克·夏卡尔.md",
-    "句读/字典/M.md",
-    "句读/句读.md",
-    "句读/字典/J.md",
-    "句读/作家/j/加缪.md",
-    "2406211935.md",
-    "2406211419.md",
-    "2406211418.md",
-    "句读/字典/$4.md",
-    "2406211417.md",
-    "句读/字典/$3.md",
+    "句读/句子/2407061640.md",
+    "句读/句子/2407061631.md",
+    "句读/句子/2407060902.md",
+    "句读/句子/2407060853.md",
     "2406211415.md",
-    "句读/字典/Y.md",
-    "句读/作家/c/柴静.md",
-    "句读/作家/y/野夫.md",
     "2406211413.md",
-    "句读/句子/2406130835.md",
-    "句读/句子/2406130833.md",
-    "句读/字典/C.md",
-    "句读/作家/m/毛姆.md",
-    "2406211412.md",
-    "句读/作家/a/阿兰·德波顿.md",
-    "句读/字典/A.md",
-    "句读/字典/$1.md",
-    "句读/句子/2406051956.md",
-    "句读/字典/P.md",
+    "句读/句子/2406201334.md",
+    "句读/句子/2406201331.md",
+    "句读/句子/2406171844.md",
+    "句读/句子/2406141535.md",
+    "句读/句子/2406141530.md",
+    "句读/句子/2406140920.md",
+    "句读/句子/2406130840.md",
+    "句读/句子/2406130839.md",
+    "句读/句子/2406111958.md",
+    "句读/句子/2406122046.md",
+    "句读/句子/2406111954.md",
+    "句读/句子/2406101030.md",
+    "句读/句子/2406101028.md",
+    "句读/句子/2406090910.md",
+    "句读/句子/2406061326.md",
+    "句读/句子/2406060920.md",
+    "地点.md",
+    "句读/句子/2406060919.md",
+    "句读/句子/2406052003.md",
+    "句读/句子/2406051958.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
