@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6ac31f96b3c6811",
+        "id": "72c3d4e78f2281d7",
         "type": "tabs",
         "children": [
           {
-            "id": "24f67e626babd4e1",
+            "id": "7863ef7f2c01733d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/字典/$3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1089b67fffffb6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2406210930.md",
+                "file": "句读/作家/b/布莱斯特.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/字典/$3.md",
+                "file": "句读/作家/b/布莱斯特.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/字典/$3.md",
+                "file": "句读/作家/b/布莱斯特.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/字典/$3.md"
+                "file": "句读/作家/b/布莱斯特.md"
               }
             }
           }
@@ -161,34 +149,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24f67e626babd4e1",
+  "active": "7863ef7f2c01733d",
   "lastOpenFiles": [
+    "句读/字典/B.md",
+    "句读/作家/b/博尔赫斯.md",
+    "句读/作家/b/伯特兰·罗素.md",
+    "句读/作家/b/北野武.md",
+    "句读/作家/b/北川理惠.md",
+    "句读/作家/b/坂元裕二.md",
+    "句读/作家/b/坂口安吾.md",
+    "句读/作家/b/白落梅.md",
+    "句读/作家/b/八月长安.md",
+    "句读/作家/b/《半山文集》.md",
     "句读/句读.md",
-    "句读/字典/l.md",
-    "句读/作家/l/鲁迅.md",
-    "2406210930.md",
-    "2406210929.md",
-    "句读/句子/2407061633.md",
-    "2406210928.md",
-    "句读/字典/s.md",
-    "句读/作家/s/三毛.md",
-    "2406210927.md",
-    "2406210924.md",
-    "句读/作家/l/陆庆屹.md",
-    "句读/字典/x.md",
-    "2406210923.md",
-    "句读/作家/x/辛波斯卡.md",
-    "句读/字典/m.md",
-    "句读/作家/m/毛姆.md",
-    "2406210920.md",
-    "句读/字典/y.md",
-    "句读/作家/y/余华.md",
-    "句读/句子/2406190834.md",
-    "句读/句子/2406191628.md",
-    "句读/字典/z.md",
-    "句读/作家/z/张爱玲.md",
-    "句读/句子/2406201334.md",
-    "句读/作家/s/石川啄木.md",
+    "句读/字典/Z.md",
+    "句读/字典/Y.md",
+    "句读/字典/X.md",
+    "句读/字典/W.md",
+    "句读/字典/T.md",
+    "句读/字典/S.md",
+    "句读/字典/R.md",
+    "句读/字典/Q.md",
+    "句读/字典/P.md",
+    "句读/字典/N.md",
+    "句读/字典/M.md",
+    "句读/字典/L.md",
+    "句读/字典/K.md",
+    "句读/字典/J.md",
+    "句读/字典/A.md",
     "句读/作家/z",
     "句读/作家/y",
     "句读/作家/x",
