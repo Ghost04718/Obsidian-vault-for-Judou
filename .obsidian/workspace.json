@@ -8,31 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0dacb174b32a1a0",
+            "id": "16bb99807b037f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406211419.md",
+                "file": "句读/字典/M.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "16bb99807b037f44",
+            "id": "b0dacb174b32a1a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/作家/j/加缪.md",
+                "file": "2406211935.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8246ddf0bf9f1f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "句读/作家/m/马克·夏卡尔.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/作家/j/加缪.md",
+                "file": "句读/字典/M.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/作家/j/加缪.md",
+                "file": "句读/字典/M.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/作家/j/加缪.md"
+                "file": "句读/字典/M.md"
               }
             }
           }
@@ -164,8 +175,12 @@
   },
   "active": "16bb99807b037f44",
   "lastOpenFiles": [
-    "句读/字典/J.md",
+    "句读/作家/m/马克·夏卡尔.md",
+    "句读/字典/M.md",
     "句读/句读.md",
+    "句读/字典/J.md",
+    "句读/作家/j/加缪.md",
+    "2406211935.md",
     "2406211419.md",
     "2406211418.md",
     "句读/字典/$4.md",
@@ -179,7 +194,6 @@
     "句读/句子/2406130835.md",
     "句读/句子/2406130833.md",
     "句读/字典/C.md",
-    "句读/字典/M.md",
     "句读/作家/m/毛姆.md",
     "2406211412.md",
     "句读/作家/a/阿兰·德波顿.md",
@@ -187,9 +201,6 @@
     "句读/字典/$1.md",
     "句读/句子/2406051956.md",
     "句读/字典/P.md",
-    "句读/作家/p/潘向黎.md",
-    "句读/字典/N.md",
-    "句读/字典/L.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
