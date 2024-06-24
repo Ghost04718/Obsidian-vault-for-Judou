@@ -8,67 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16bb99807b037f44",
+            "id": "f1b557aee5f743d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/句子/2406051949.md",
+                "file": "句读/字典/L.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0dacb174b32a1a0",
+            "id": "ee1b5a8e0c72bc35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406211935.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8246ddf0bf9f1f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/句子/2407060902.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ca30215f29ad13f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/句子/2406111958.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a11474cb85ed551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "地点.md",
+                "file": "2406240835.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "情话",
+                "query": "tag:#文学/蒋勋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/句子/2406111958.md",
+                "file": "2406240835.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/句子/2406111958.md",
+                "file": "2406240835.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/句子/2406111958.md"
+                "file": "2406240835.md"
               }
             }
           }
@@ -199,8 +162,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3ca30215f29ad13f",
+  "active": "ee1b5a8e0c72bc35",
   "lastOpenFiles": [
+    "2406240833.md",
+    "2406240835.md",
+    "句读/作家/l/拉罗什福科.md",
+    "句读/字典/L.md",
+    "2406240831.md",
+    "句读/作家/l/莱昂纳德·科恩.md",
+    "句读/句读.md",
+    "2406240830.md",
+    "2406240827.md",
+    "句读/作家/j/蒋勋.md",
+    "句读/字典/J.md",
+    "句读/句子/2406211935.md",
+    "句读/句子/2406111958.md",
     "句读/句子/2406122046.md",
     "句读/句子/2406130839.md",
     "句读/句子/2406130840.md",
@@ -213,20 +189,7 @@
     "句读/句子/2407061631.md",
     "句读/句子/2407060902.md",
     "句读/句子/2407060853.md",
-    "2406211415.md",
-    "2406211413.md",
-    "地点.md",
-    "句读/句子/2407061640.md",
-    "句读/句子/2406111958.md",
-    "句读/句子/2406111954.md",
-    "句读/句子/2406101030.md",
-    "句读/句子/2406101028.md",
-    "句读/句子/2406090910.md",
-    "句读/句子/2406061326.md",
-    "句读/句子/2406060920.md",
-    "句读/句子/2406060919.md",
-    "句读/句子/2406052003.md",
-    "句读/句子/2406051958.md",
+    "句读/句子/2406211415.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
