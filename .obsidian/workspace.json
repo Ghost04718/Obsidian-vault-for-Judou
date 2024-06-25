@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/字典/C.md",
+                "file": "句读/字典/N.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,26 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406241339.md",
+                "file": "2406251442.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0203314ec3cf426c",
+            "id": "3363d010cd2db65a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/作家/c/查理·芒格.md",
+                "file": "句读/作家/n/倪一宁.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#文学/班宇",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406241339.md",
+                "file": "句读/字典/N.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406241339.md",
+                "file": "句读/字典/N.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2406241339.md"
+                "file": "句读/字典/N.md"
               }
             }
           }
@@ -174,34 +173,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "caee631624444b62",
+  "active": "ee1b5a8e0c72bc35",
   "lastOpenFiles": [
-    "句读/字典/C.md",
     "句读/句读.md",
-    "句读/作家/c/查理·芒格.md",
-    "2406241339.md",
-    "句读/句子/2406241336.md",
-    "句读/作家/b/班宇.md",
-    "句读/字典/B.md",
-    "句读/句子/2406240827.md",
-    "句读/字典/L.md",
-    "句读/作家/l/罗翔.md",
-    "句读/句子/2406101023.md",
-    "句读/句子/2406241335.md",
-    "句读/句子/2406241330.md",
-    "句读/作家/l/勒内·夏尔.md",
-    "句读/句子/2406241333.md",
-    "句读/句子/2406241331.md",
+    "句读/字典/W.md",
+    "句读/作家/w/王小波.md",
+    "句读/作家/n/倪一宁.md",
+    "2406251442.md",
+    "2406251441.md",
+    "句读/字典/G.md",
+    "2406251439.md",
+    "句读/作家/g/歌德.md",
+    "句读/句子/2406101032.md",
+    "句读/字典/A.md",
+    "句读/作家/a/奥斯卡·王尔德.md",
+    "2406251436.md",
+    "句读/句子/2406101037.md",
+    "句读/句子/2406130841.md",
+    "句读/句子/2406140915.md",
+    "句读/句子/2406181413.md",
+    "句读/字典/C.md",
+    "句读/作家/c/村上春树.md",
+    "句读/句子/2406061808.md",
+    "句读/句子/2406170848.md",
+    "句读/作家/g/顾城.md",
+    "句读/字典/S.md",
+    "2406251433.md",
+    "句读/作家/s/沈复.md",
     "句读/字典/$4.md",
-    "句读/句子/2406240833.md",
-    "2406240835.md",
-    "句读/作家/l/拉罗什福科.md",
-    "句读/句子/2406240831.md",
-    "句读/作家/l/莱昂纳德·科恩.md",
-    "句读/句子/2406240830.md",
-    "句读/作家/j/蒋勋.md",
-    "句读/字典/J.md",
-    "句读/句子/2406211935.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
