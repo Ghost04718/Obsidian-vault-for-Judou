@@ -8,39 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee1b5a8e0c72bc35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/作家/c/茨威格.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caee631624444b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/句子/2406260847.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bafd23d4dd302554",
+            "id": "86eee59a84ba0d8b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "最可爱",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/作家/c/茨威格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/作家/c/茨威格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "句读/作家/c/茨威格.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,14 +141,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bafd23d4dd302554",
+  "active": "86eee59a84ba0d8b",
   "lastOpenFiles": [
-    "句读/句子/2406241335.md",
-    "句读/句子/2406210929.md",
-    "句读/作家/c/茨威格.md",
+    "句读/句子/2406261605.md",
+    "句读/句读.md",
+    "句读/句子/2406261611.md",
+    "句读/作家/a/奥斯卡·王尔德.md",
+    "句读/字典/A.md",
+    "句读/句子/2406261608.md",
+    "句读/作家/a/安德烈·莫瑞兹.md",
+    "句读/字典/M.md",
+    "句读/作家/m/M·斯科特·派克.md",
     "句读/句子/2406260847.md",
     "句读/字典/C.md",
-    "句读/句读.md",
+    "句读/作家/c/村上春树.md",
+    "句读/句子/2406240830.md",
+    "句读/作家/c/茨威格.md",
+    "句读/句子/2406241335.md",
+    "句读/句子/2406210929.md",
     "句读/字典/$4.md",
     "句读/句子/2406260853.md",
     "句读/字典/L.md",
@@ -187,17 +168,7 @@
     "句读/作家/q/青山七惠.md",
     "句读/句子/2406260850.md",
     "句读/句子/2406260849.md",
-    "句读/字典/A.md",
     "句读/句子/2406251855.md",
-    "句读/作家/a/奥修.md",
-    "句读/字典/P.md",
-    "句读/句子/2406251854.md",
-    "句读/作家/p/普希金.md",
-    "句读/字典/Y.md",
-    "句读/句子/2406251852.md",
-    "句读/作家/y/约瑟夫·布罗茨基.md",
-    "句读/字典/N.md",
-    "句读/句子/2406241339.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
