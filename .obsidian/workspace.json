@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/字典/N.md",
+                "file": "句读/字典/A.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,25 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406251442.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3363d010cd2db65a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "句读/作家/n/倪一宁.md",
+                "file": "2406251855.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "最可爱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/字典/N.md",
+                "file": "2406251855.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/字典/N.md",
+                "file": "2406251855.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/字典/N.md"
+                "file": "2406251855.md"
               }
             }
           }
@@ -173,34 +162,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee1b5a8e0c72bc35",
+  "active": "caee631624444b62",
   "lastOpenFiles": [
+    "句读/作家/a/奥修.md",
+    "句读/字典/A.md",
     "句读/句读.md",
+    "句读/字典/P.md",
+    "2406251855.md",
+    "2406251854.md",
+    "句读/作家/p/普希金.md",
+    "句读/字典/Y.md",
+    "2406251852.md",
+    "句读/作家/y/约瑟夫·布罗茨基.md",
+    "句读/字典/N.md",
+    "句读/句子/2406241339.md",
+    "句读/句子/2406251442.md",
+    "句读/作家/n/倪一宁.md",
     "句读/字典/W.md",
     "句读/作家/w/王小波.md",
-    "句读/作家/n/倪一宁.md",
-    "2406251442.md",
-    "2406251441.md",
+    "句读/句子/2406251441.md",
     "句读/字典/G.md",
-    "2406251439.md",
+    "句读/句子/2406251439.md",
     "句读/作家/g/歌德.md",
     "句读/句子/2406101032.md",
-    "句读/字典/A.md",
     "句读/作家/a/奥斯卡·王尔德.md",
-    "2406251436.md",
+    "句读/句子/2406251436.md",
     "句读/句子/2406101037.md",
     "句读/句子/2406130841.md",
     "句读/句子/2406140915.md",
-    "句读/句子/2406181413.md",
-    "句读/字典/C.md",
-    "句读/作家/c/村上春树.md",
-    "句读/句子/2406061808.md",
-    "句读/句子/2406170848.md",
-    "句读/作家/g/顾城.md",
-    "句读/字典/S.md",
-    "2406251433.md",
-    "句读/作家/s/沈复.md",
-    "句读/字典/$4.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
