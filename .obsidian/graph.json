@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#文学/情话  ",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:句读/字典  ",
+      "color": {
+        "a": 1,
+        "rgb": 6725109
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19488601958520732,
-  "close": true
+  "scale": 0.19488601958520843,
+  "close": false
 }
