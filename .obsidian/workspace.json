@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/字典/$4.md",
+                "file": "句读/作家/h/海明威.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,22 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/句子/2406270849.md",
+                "file": "2406271400.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2e59d1966e8190e0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "也许",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/字典/$4.md",
+                "file": "2406271400.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/字典/$4.md",
+                "file": "2406271400.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/字典/$4.md"
+                "file": "2406271400.md"
               }
             }
           }
@@ -170,8 +162,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e59d1966e8190e0",
+  "active": "edd66b0813091fd8",
   "lastOpenFiles": [
+    "句读/作家/h/海明威.md",
+    "句读/字典/H.md",
+    "句读/句读.md",
+    "句读/字典/$4.md",
+    "2406271400.md",
+    "2406271357.md",
+    "句读/字典/S.md",
+    "2406271355.md",
+    "句读/作家/s/梭罗.md",
+    "2406271353.md",
+    "句读/句子/2406061317.md",
+    "2406271351.md",
+    "句读/作家/s/塞林格.md",
+    "2406271350.md",
+    "句读/字典/Z.md",
+    "2406271348.md",
+    "句读/作家/z/张小娴.md",
     "句读/句子/2406270849.md",
     "句读/句子/2406270852.md",
     "句读/句子/2406270854.md",
@@ -180,24 +189,7 @@
     "句读/句子/2406270858.md",
     "句读/句子/2406270900.md",
     "句读/句子/2406270901.md",
-    "句读/字典/$4.md",
-    "句读/句读.md",
     "句读/字典/D.md",
-    "句读/作家/d/东野圭吾.md",
-    "句读/字典/G.md",
-    "句读/作家/g/宫崎骏.md",
-    "句读/字典/F.md",
-    "句读/作家/f/梵高.md",
-    "句读/字典/N.md",
-    "句读/作家/n/尼采.md",
-    "句读/字典/C.md",
-    "句读/作家/c/柴静.md",
-    "句读/字典/B.md",
-    "句读/作家/b/毕淑敏.md",
-    "句读/句子/2406261938.md",
-    "句读/句子/2406180901.md",
-    "句读/句子/2406261937.md",
-    "句读/句子/2406261605.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
