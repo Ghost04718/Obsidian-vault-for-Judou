@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "33fa803372e32c7d",
+        "id": "31409b522ce28db7",
         "type": "tabs",
         "children": [
           {
-            "id": "86eee59a84ba0d8b",
+            "id": "7f8d54eefc295cdf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "句读/字典/$4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edd66b0813091fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2406261938.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "句读/字典/$4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "句读/字典/$4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "句读/字典/$4.md"
+              }
             }
           }
         ],
@@ -141,10 +161,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86eee59a84ba0d8b",
+  "active": "7f8d54eefc295cdf",
   "lastOpenFiles": [
-    "句读/句子/2406261605.md",
+    "2406261938.md",
+    "2406261937.md",
+    "句读/字典/$4.md",
     "句读/句读.md",
+    "句读/句子/2406261605.md",
     "句读/句子/2406261611.md",
     "句读/作家/a/奥斯卡·王尔德.md",
     "句读/字典/A.md",
@@ -159,7 +182,6 @@
     "句读/作家/c/茨威格.md",
     "句读/句子/2406241335.md",
     "句读/句子/2406210929.md",
-    "句读/字典/$4.md",
     "句读/句子/2406260853.md",
     "句读/字典/L.md",
     "句读/句子/2406260852.md",
@@ -167,8 +189,6 @@
     "句读/字典/Q.md",
     "句读/作家/q/青山七惠.md",
     "句读/句子/2406260850.md",
-    "句读/句子/2406260849.md",
-    "句读/句子/2406251855.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
