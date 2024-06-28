@@ -46,11 +46,11 @@
       "query": "path:句读/字典  ",
       "color": {
         "a": 1,
-        "rgb": 6747563
+        "rgb": 10280359
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1390074157782866,
+  "scale": 0.5370427192340392,
   "close": false
 }

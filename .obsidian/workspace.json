@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/作家/y/亦舒.md",
+                "file": "句读/作家/c/村上春树.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2406271904.md",
+                "file": "句读/句子/2406271900.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d7c23cf7d508630",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2406271904.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2406271904.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2406271904.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,15 +166,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edd66b0813091fd8",
+  "active": "5d7c23cf7d508630",
   "lastOpenFiles": [
-    "2406271902.md",
-    "2406271904.md",
-    "句读/作家/y/亦舒.md",
-    "句读/字典/Y.md",
+    "句读/句子/2406271904.md",
+    "句读/作家/c/村上春树.md",
+    "句读/句子/2406271900.md",
+    "句读/字典/C.md",
     "句读/句读.md",
+    "句读/字典/Y.md",
+    "句读/作家/y/亦舒.md",
+    "句读/句子/2406271902.md",
     "句读/字典/W.md",
-    "2406271900.md",
     "句读/作家/w/汪曾祺.md",
     "句读/字典/H.md",
     "句读/作家/h/海明威.md",
@@ -188,8 +194,6 @@
     "句读/句子/2406271350.md",
     "句读/字典/Z.md",
     "句读/作家/z/张小娴.md",
-    "句读/句子/2406270849.md",
-    "句读/句子/2406270852.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
