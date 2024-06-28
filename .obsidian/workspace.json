@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/作家/c/村上春树.md",
+                "file": "句读/字典/A.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/句子/2406271900.md",
+                "file": "句读/句子/2406280910.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d7c23cf7d508630",
+            "id": "3a64ce41fb0fcc9c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "句读/字典/A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "句读/字典/A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "句读/字典/A.md"
+              }
             }
           }
         ],
@@ -166,34 +170,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d7c23cf7d508630",
+  "active": "3a64ce41fb0fcc9c",
   "lastOpenFiles": [
-    "句读/句子/2406271904.md",
+    "句读/句子/2406280910.md",
+    "句读/句子/2406280916.md",
+    "句读/作家/a/艾萨克·阿西莫夫.md",
+    "句读/字典/A.md",
+    "句读/句读.md",
+    "句读/字典/$4.md",
+    "句读/句子/2406280913.md",
+    "句读/字典/H.md",
+    "句读/句子/2406280911.md",
+    "句读/作家/h/海子.md",
+    "句读/字典/X.md",
+    "句读/作家/x/小野洋子.md",
+    "句读/字典/C.md",
     "句读/作家/c/村上春树.md",
     "句读/句子/2406271900.md",
-    "句读/字典/C.md",
-    "句读/句读.md",
+    "句读/句子/2406271904.md",
     "句读/字典/Y.md",
     "句读/作家/y/亦舒.md",
     "句读/句子/2406271902.md",
     "句读/字典/W.md",
     "句读/作家/w/汪曾祺.md",
-    "句读/字典/H.md",
     "句读/作家/h/海明威.md",
     "句读/句子/2406271348.md",
     "句读/句子/2406271400.md",
-    "句读/字典/$4.md",
     "句读/句子/2406271357.md",
     "句读/字典/S.md",
-    "句读/句子/2406271355.md",
-    "句读/作家/s/梭罗.md",
-    "句读/句子/2406271353.md",
-    "句读/句子/2406061317.md",
-    "句读/句子/2406271351.md",
-    "句读/作家/s/塞林格.md",
-    "句读/句子/2406271350.md",
-    "句读/字典/Z.md",
-    "句读/作家/z/张小娴.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
