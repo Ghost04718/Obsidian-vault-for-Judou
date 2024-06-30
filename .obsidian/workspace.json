@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/句子/2406281350.md",
+                "file": "句读/作家/j/加缪.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/句子/2406281412.md",
+                "file": "句读/句子/2406300848.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "367d95b2fe94c216",
+            "id": "c360afb1be6a5297",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/句子/2406281350.md",
+                "file": "句读/作家/j/加缪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/句子/2406281350.md",
+                "file": "句读/作家/j/加缪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/句子/2406281350.md"
+                "file": "句读/作家/j/加缪.md"
               }
             }
           }
@@ -170,34 +170,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "367d95b2fe94c216",
+  "active": "c360afb1be6a5297",
   "lastOpenFiles": [
+    "句读/句子/2406300837.md",
+    "句读/作家/j/加缪.md",
+    "句读/字典/J.md",
+    "句读/句读.md",
+    "句读/字典/M.md",
+    "句读/作家/m/麦家.md",
+    "句读/句子/2406300848.md",
+    "句读/句子/2406300847.md",
+    "句读/作家/m/马克·吐温.md",
+    "句读/作家/m/马克·夏卡尔.md",
+    "句读/作家/m/马洛伊·山多尔.md",
+    "句读/作家/m/马特·海格.md",
+    "句读/字典/$4.md",
+    "句读/句子/2406300846.md",
+    "句读/句子/2406300843.md",
+    "句读/字典/C.md",
+    "句读/作家/c/村上春树.md",
+    "句读/句子/2406300841.md",
+    "黄华溢.md",
+    "句读/句子/2406281412.md",
     "句读/句子/2406281350.md",
     "句读/字典/L.md",
-    "句读/句子/2406281412.md",
     "句读/作家/l/理查德·耶茨.md",
-    "句读/句读.md",
-    "句读/字典/$4.md",
     "句读/句子/2406281411.md",
     "句读/句子/2406281409.md",
     "句读/作家/l/兰波.md",
-    "句读/字典/B.md",
-    "句读/作家/b/坂口安吾.md",
-    "句读/句子/2406281405.md",
-    "句读/句子/2406281352.md",
-    "句读/句子/2406111949.md",
-    "句读/字典/Z.md",
-    "句读/作家/z/周国平.md",
-    "句读/作家/z/郑执.md",
-    "句读/作家/z/张怡微.md",
-    "句读/作家/z/张小娴.md",
-    "句读/作家/z/张嘉佳.md",
-    "句读/作家/z/张二冬.md",
-    "句读/作家/z/扎西拉姆·多多.md",
-    "句读/字典/Y.md",
-    "句读/作家/y/伊恩·麦克尤恩.md",
-    "句读/作家/y/野夫.md",
-    "句读/字典/X.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
