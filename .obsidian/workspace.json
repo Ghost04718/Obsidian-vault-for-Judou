@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/字典/A.md",
+                "file": "句读/句子/2406281350.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "句读/句子/2406280910.md",
+                "file": "句读/句子/2406281412.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a64ce41fb0fcc9c",
+            "id": "367d95b2fe94c216",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "也许",
+                "query": "回忆本来",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "句读/字典/A.md",
+                "file": "句读/句子/2406281350.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "句读/字典/A.md",
+                "file": "句读/句子/2406281350.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "句读/字典/A.md"
+                "file": "句读/句子/2406281350.md"
               }
             }
           }
@@ -170,34 +170,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a64ce41fb0fcc9c",
+  "active": "367d95b2fe94c216",
   "lastOpenFiles": [
-    "句读/句子/2406280910.md",
-    "句读/句子/2406280916.md",
-    "句读/作家/a/艾萨克·阿西莫夫.md",
-    "句读/字典/A.md",
+    "句读/句子/2406281350.md",
+    "句读/字典/L.md",
+    "句读/句子/2406281412.md",
+    "句读/作家/l/理查德·耶茨.md",
     "句读/句读.md",
     "句读/字典/$4.md",
-    "句读/句子/2406280913.md",
-    "句读/字典/H.md",
-    "句读/句子/2406280911.md",
-    "句读/作家/h/海子.md",
-    "句读/字典/X.md",
-    "句读/作家/x/小野洋子.md",
-    "句读/字典/C.md",
-    "句读/作家/c/村上春树.md",
-    "句读/句子/2406271900.md",
-    "句读/句子/2406271904.md",
+    "句读/句子/2406281411.md",
+    "句读/句子/2406281409.md",
+    "句读/作家/l/兰波.md",
+    "句读/字典/B.md",
+    "句读/作家/b/坂口安吾.md",
+    "句读/句子/2406281405.md",
+    "句读/句子/2406281352.md",
+    "句读/句子/2406111949.md",
+    "句读/字典/Z.md",
+    "句读/作家/z/周国平.md",
+    "句读/作家/z/郑执.md",
+    "句读/作家/z/张怡微.md",
+    "句读/作家/z/张小娴.md",
+    "句读/作家/z/张嘉佳.md",
+    "句读/作家/z/张二冬.md",
+    "句读/作家/z/扎西拉姆·多多.md",
     "句读/字典/Y.md",
-    "句读/作家/y/亦舒.md",
-    "句读/句子/2406271902.md",
-    "句读/字典/W.md",
-    "句读/作家/w/汪曾祺.md",
-    "句读/作家/h/海明威.md",
-    "句读/句子/2406271348.md",
-    "句读/句子/2406271400.md",
-    "句读/句子/2406271357.md",
-    "句读/字典/S.md",
+    "句读/作家/y/伊恩·麦克尤恩.md",
+    "句读/作家/y/野夫.md",
+    "句读/字典/X.md",
     "add_line.sh~",
     "add_line.sh",
     "句读/作家/z",
